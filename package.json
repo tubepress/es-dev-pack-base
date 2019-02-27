@@ -1,0 +1,15 @@
+{
+  "name": "@tubepress/dev-pack-base",
+  "version": "1.0.0",
+  "description": "devDependencies for TubePress libraries and apps",
+  "author": "Eric Hough <eric@tubepress.com>",
+  "license": "MIT",
+  "dependencies": {
+
+    "@tubepress/browserslist-config" : "^1.0",
+    "@tubepress/eslint-config"       : "^1.0",
+
+    "eslint"               : "^5.14",
+    "eslint-plugin-import" : "^2.16"
+  }
+}
